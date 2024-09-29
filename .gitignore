@@ -1,2 +1,14 @@
-docs
+# Logs
+firebase-debug.log*
+firebase-debug.*.log*
+
+# Firebase cache
+.firebase/
+
+# Firebase config
+.firebaserc
+firebase.json
+
+# others
 .gitmessage
+docs/
