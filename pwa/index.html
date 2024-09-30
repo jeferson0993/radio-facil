@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Radio App</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="manifest" href="manifest.json">
+    <!-- Materialize CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!-- Custom Styles -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Navbar -->
+    <nav>
+        <div class="nav-wrapper teal">
+            <a href="#" class="brand-logo center">Rádio Fácil App</a>
+        </div>
+    </nav>
+
+    <!-- Main content -->
+    <main>
+        <div class="container center">
+            <h1 class="icon-block">
+                <i class="material-icons teal-text">radio</i>
+            </h1>
+            <h5>Selecione a Estação de Rádio</h5>
+
+            <!-- Radio station selector -->
+            <div class="input-field col s12">
+                <select id="station-selector">
+                    <option value="">Loading stations...</option>
+                </select>
+                <label>Estações:</label>
+            </div>
+
+            <!-- Player container -->
+            <div class="player-container">
+                <audio id="radio-player" controls>
+                    <source id="audio-source" src="" type="">
+                    Your browser does not support the audio element.
+                </audio>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="page-footer grey darken-3">
+        <div class="container">
+            <div class="">
+                © 2024 Radio App, All rights reserved. <span id="version" class="right"></span>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Materialize JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>

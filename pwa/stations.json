@@ -1,0 +1,44 @@
+{
+    "stations": [
+        {
+            "title": "WBBR Bloomberg 1130 (New York)",
+            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WBBRAMAAC48_SC",
+            "type": "aac"
+        },
+        {
+            "title": "CKNW-AM NewsTalk 980 (Vancouver)",
+            "url": "https://corus.leanstream.co/CKNWAM-MP3",
+            "type": "mp3"
+        },
+        {
+            "title": "KSFO 560 AM (San Francisco)",
+            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KSFOAMAAC_SC",
+            "type": "aac"
+        },
+        {
+            "title": "Highland Radio (Ireland)",
+            "url": "https://edge.audioxi.com/HIGHLAND",
+            "type": "mp3"
+        },
+        {
+            "title": "LBC (London)",
+            "url": "https://media-ssl.musicradio.com/LBCUK",
+            "type": "mp3"
+        },
+        {
+            "title": "Cape Talk (South Africa)",
+            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPE_TALK_SC",
+            "type": "mp3"
+        },
+        {
+            "title": "CNA 938 (Singapore)",
+            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/938NOWAAC_SC",
+            "type": "aac"
+        },
+        {
+            "title": "ABC News (Australia)",
+            "url": "https://live-radio01.mediahubaustralia.com/PBW/aac/",
+            "type": "aac"
+        }
+    ]
+}

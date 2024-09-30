@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+h1 {
+    font-size: 600%;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+.icon-block {
+    padding: 0 15px;
+}
+
+.icon-block .material-icons {
+    font-size: inherit;
+}
+
+.player-container {
+    margin-top: 50px;
+    text-align: center;
+}
+
+audio {
+    width: 100%;
+    max-width: 600px;
+}
+
+.page-footer {
+    padding-bottom: 1rem;
+}
