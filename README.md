@@ -197,7 +197,7 @@ Resources that i find helpful. I've included a few of my favorites to kick thing
 [license-url]: https://github.com/jeferson0993/radio-facil/blob/main/LICENSE
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/jeferson0993
+[linkedin-url]: https://www.linkedin.com/in/jeferson-silva-b68a56302
 
 [product-screenshot]: ./printscreen.jpg
 

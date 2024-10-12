@@ -1,6 +1,11 @@
 {
     "stations": [
         {
+            "title": "CHQR News Talk (Calgary)",
+            "url": "https://live.leanstream.co/CHQRAM",
+            "type": "mp3"
+        },
+        {
             "title": "WBBR Bloomberg 1130 (New York)",
             "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WBBRAMAAC48_SC",
             "type": "aac"
@@ -13,6 +18,11 @@
         {
             "title": "KSFO 560 AM (San Francisco)",
             "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KSFOAMAAC_SC",
+            "type": "aac"
+        },
+        {
+            "title": "WBAP News / Talk (Texas)",
+            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WBAPAMAAC_SC",
             "type": "aac"
         },
         {

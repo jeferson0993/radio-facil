@@ -1,12 +1,13 @@
 {
     "name": "Rádio Fácil",
     "short_name": "Radio App",
-    "description": "Description",
+    "description": "Progressive Web App (PWA) radio stations player built using vanilla JavaScript and styled with Materialize CSS",
+    "author": "Jeferson F Silva",
+    "version": "1.0.0",
     "theme_color": "#eeeeee",
     "background_color": "#ced3db",
     "display": "standalone",
     "orientation": "portrait",
-    "version": "1.0.0",
     "scope": "/",
     "start_url": "/",
     "icons": [
