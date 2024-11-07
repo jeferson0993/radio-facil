@@ -172,7 +172,7 @@ Project Link: [https://github.com/jeferson0993/radio-facil](https://github.com/j
 
 Resources that i find helpful. I've included a few of my favorites to kick things off!
 
-* [Materialize CSS](https://materializecss.com/getting-started.html)
+* [Tailwindcss](https://tailwindcss.com/docs/installation)
 * [Font Awesome](https://fontawesome.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
